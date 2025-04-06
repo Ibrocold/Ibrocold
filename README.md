@@ -29,10 +29,10 @@ I thrive on automating and optimizing cloud infrastructure and CI/CD pipelines, 
 
 I've applied my DevOps expertise across various industries, including:
 
-* **Education:**
-* **Service Provision:**
-* **Finance:**
-* **Managed IT Services:**
+* **Education**
+* **Service Provision**
+* **Finance**
+* **Managed IT Services**
 
 ## Connect With Me
 
