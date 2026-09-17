@@ -1,4 +1,4 @@
-# Ibrahim Bello - DevOps Engineer
+# Ibrahim Bello - Software and DevOps Engineer
 
 👋 Hi there! I'm passionate about technology, innovation, continuous value delivery, and improvement.  This passion has driven my work across diverse sectors, including education, service provision, finance, and managed IT services.
 
