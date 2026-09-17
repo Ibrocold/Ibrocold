@@ -49,7 +49,6 @@ Built and maintained a range of Java applications demonstrating object-oriented 
 
 ### C# Development & Testing
 
-- [Assignment02_starter](https://github.com/Ibrocold/Assignment02_starter) — C# application development project with Docker support.
 - [BankAccountAndTests](https://github.com/Ibrocold/BankAccountAndTests) — C# banking domain implementation with automated tests.
 - [StudentCafe](https://github.com/Ibrocold/StudentCafe) — C# application modelling a student café domain.
 
